@@ -2,4 +2,8 @@ this is my first project
 this demonstrates GIT repo creation
 selenium demo
 xxx
+<<<<<<< HEAD
 rrrr
+=======
+eeeee
+>>>>>>> 7978df9f200ad8ce2243f409eae2fbfc65c2c630
